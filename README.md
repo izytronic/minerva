@@ -1,6 +1,6 @@
 # minerva
 
-Minerva is an easy to use wireless intrusion and hazard alart detection system. 
+Minerva is an easy to use wireless intrusion and hazard alert detection system. 
 
 ## Motivation
 I started with minerva cause I'm interested in electronics, 3D-printing and realizing new projects. So I design the cases for the sensors, the PCB layouts, write the firmware for the sensors and the software for the mainframe. 
